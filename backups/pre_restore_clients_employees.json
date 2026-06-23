@@ -1,0 +1,45 @@
+{
+  "clients": {
+    "columns": [
+      "id",
+      "user_id",
+      "nome",
+      "email",
+      "telefone",
+      "whatsapp",
+      "contact_preference",
+      "cpf_cnpj",
+      "is_test",
+      "cep",
+      "rua",
+      "numero",
+      "complemento",
+      "bairro",
+      "cidade",
+      "estado",
+      "data_criacao",
+      "data_atualizacao"
+    ],
+    "rows": []
+  },
+  "employees": {
+    "columns": [
+      "id",
+      "user_id",
+      "nome",
+      "cpf_cnpj",
+      "tipo_contrato",
+      "funcao",
+      "email",
+      "telefone",
+      "photo_url",
+      "photo_base64",
+      "photo",
+      "photo_type",
+      "created_at",
+      "updated_at",
+      "deleted_at"
+    ],
+    "rows": []
+  }
+}

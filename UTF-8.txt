@@ -1,0 +1,3 @@
+DATABASE_URL=postgresql://postgres:sollarmaxx01@localhost:5432/sollar
+SECRET_KEY=chave_mestra_123
+ENCRYPTION_KEY=chave_cripto_456
